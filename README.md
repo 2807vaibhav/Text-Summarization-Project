@@ -1,1 +1,1 @@
-# Text-Summarization-Project
+# Text-Summarizer-Project
